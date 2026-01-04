@@ -1,4 +1,4 @@
-# Code of ``Vertical Deformation Mapping: Steering Optimizer Toward Flat Minima.''
+# Code of "Vertical Deformation Mapping: Steering Optimizer Toward Flat Minima"
 
 ## Getting Started
 
